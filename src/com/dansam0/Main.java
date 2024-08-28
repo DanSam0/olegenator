@@ -7,12 +7,6 @@ public class Main {
 
         Window window = new Window();
         window.setVisible(true);
-        /*int[] pizzdec = new int[10000000];
-        for (int i = 0; i < pizzdec.length; i++){
-            pizzdec[i] = i;
-        }
-
-        binarySearch(1, pizzdec);*/
         
     }
 
